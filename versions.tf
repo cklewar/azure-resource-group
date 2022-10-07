@@ -5,7 +5,7 @@ terraform {
     hostname     = "app.terraform.io"
 
     workspaces {
-      name = "azure-subnet-module"
+      name = "azure-resource-group-module"
     }
   }
 
